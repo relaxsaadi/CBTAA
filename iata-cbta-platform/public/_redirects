@@ -1,0 +1,5 @@
+# Redirects pour Single Page Application
+/*    /index.html   200
+
+# Redirects pour les API (si besoin futur)
+/api/*  https://votre-api.com/api/:splat  200

@@ -1,0 +1,13 @@
+# Fichiers à ignorer lors du déploiement Vercel
+node_modules
+.git
+src
+public
+*.log
+.env.local
+.DS_Store
+*.tgz
+*.tar.gz
+README.md
+deploy.sh
+DEPLOYMENT_GUIDE.md
